@@ -105,7 +105,7 @@ import javax.mail.*;
 import javax.mail.internet.*;
 import java.util.Properties;
 
-public class App11 {
+public class hospital_management_code {
   private static final String DB_URL = "jdbc:sqlite:hospital.db";
   private static Connection conn;
   private static final Color PRIMARY_COLOR = new Color(176, 34, 22);
