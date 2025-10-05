@@ -92,7 +92,7 @@ Designed for demonstration of:
 
 3. **Add the required libraries:**
 
-    sqlite-jdbc.jar
+    sqlite-jdbc.jar, 
     itextpdf-5.5.13.4.jar
 
 
@@ -134,5 +134,3 @@ Neil Landge
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project with proper attribution. See the LICENSE file for details.
-
-<div align="center"> ✨ Made with dedication and Java Swing by Neil Landge ✨ </div> 
