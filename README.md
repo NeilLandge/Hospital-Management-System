@@ -86,7 +86,7 @@ Designed for demonstration of:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/Hospital-Management-System.git
+   git clone https://github.com/NeilLandge/Hospital-Management-System.git
 
 2. **Open the project in VS Code or any Java IDE.**
 
