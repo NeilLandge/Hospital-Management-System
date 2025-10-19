@@ -63,9 +63,9 @@ Designed for demonstration of:
   - Appointment ID prefilled in subject  
   - User manually attaches the generated PDF
 
-### 💳 Billing System
-- Generate bills for patients and appointments.
-- Automatically create **PDF invoices**.
+### 💳 Billing Management
+- **Add** and **Delete** billing records.
+- Record billing data of patients and store it in a neat formatted way
 
 ---
 
